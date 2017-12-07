@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   enable-background="new 0 0 1920 1920"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="eth-icon-w.svg"
+   width="1000"
+   height="1000"
+   inkscape:export-filename="D:\ch assets\icons\smalleth.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45"><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs15" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   id="namedview13"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="0.34766083"
+   inkscape:cx="90.370454"
+   inkscape:cy="558.74051"
+   inkscape:window-x="258"
+   inkscape:window-y="1072"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+
+
+<g
+   id="g4137"
+   transform="translate(187.86446,0)"
+   style="fill:#ffffff"><polygon
+     transform="matrix(0.78802206,0,0,0.78802206,-444.36564,-256.50118)"
+     style="opacity:0.45;fill:#ffffff"
+     id="polygon3"
+     points="959.9,325.5 563.9,982.5 959.9,1216.5 " /><polygon
+     transform="matrix(0.78802206,0,0,0.78802206,-444.36564,-256.50118)"
+     style="opacity:0.6;fill:#ffffff"
+     id="polygon5"
+     points="959.9,1216.5 563.9,982.5 959.9,802.5 1355.9,982.5 " /><polygon
+     transform="matrix(0.78802206,0,0,0.78802206,-444.36564,-256.50118)"
+     style="opacity:0.8;fill:#ffffff"
+     id="polygon7"
+     points="959.9,325.5 1355.9,982.5 959.9,1216.5 " /><polygon
+     transform="matrix(0.78802206,0,0,0.78802206,-444.36564,-256.50118)"
+     style="opacity:0.45;fill:#ffffff"
+     id="polygon9"
+     points="563.9,1036.5 959.9,1594.5 959.9,1270.5 " /><polygon
+     transform="matrix(0.78802206,0,0,0.78802206,-444.36564,-256.50118)"
+     style="opacity:0.8;fill:#ffffff"
+     id="polygon11"
+     points="1356.1,1036.5 959.9,1594.5 959.9,1270.5 " /></g>
+<rect
+   style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="rect4138"
+   width="2088.2422"
+   height="1616.5181"
+   x="-549.38605"
+   y="-248.34311" /></svg>
