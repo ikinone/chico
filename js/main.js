@@ -530,4 +530,6 @@ clipboard.on('error', function (e) {
 $(document).ready(function() {
   carousel($('div.team-carousel'));
   carousel($('div.advisors-carousel'));
+  carousel($('div.partners-carousel'));
+  carousel($('div.media-carousel'));
 });

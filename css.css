@@ -1603,6 +1603,10 @@
     min-height: 400px;
 }
 
+.card-short {
+    min-height: 200px;
+}
+
 .card-deck .card {
 	margin-right: 5px;
 	margin-left: 5px;
