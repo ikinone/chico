@@ -715,21 +715,21 @@
             width: 30px;
             height: 30px;
             position: relative;
-            left: calc(79% - 15px);
+            left: calc(100% - 15px);
         }
 
         .eth-text {
             position: relative;
-            left: calc(79% - 15px);
+            left: calc(100% - 15px);
             top: 1px;
         }
         
         .currentbar {
-            width: 79%;
+            width: 100%;
         }
 
         .goalbar {
-            width: 21%;
+            width: 0%;
             padding-right: 10px;
             /* border-right: medium solid #fff; */
         }
