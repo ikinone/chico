@@ -789,14 +789,11 @@
         max-width: 100%;
     }
 
-    /* how it works */
-
-        .how-it-works {
-            background: #2a284a;
-        }
-
     /* benefits */
-
+		#benefits {
+			padding-top: 0 !important;
+			background: #2a284a !important;
+		}
         .benefit-icon {
             max-width: 75px;
         }
